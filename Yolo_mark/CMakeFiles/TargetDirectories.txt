@@ -1,0 +1,3 @@
+/home/zx/桌面/代码/样本采集器/Yolo_mark/CMakeFiles/edit_cache.dir
+/home/zx/桌面/代码/样本采集器/Yolo_mark/CMakeFiles/rebuild_cache.dir
+/home/zx/桌面/代码/样本采集器/Yolo_mark/CMakeFiles/yolo_mark.dir
